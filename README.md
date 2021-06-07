@@ -1,4 +1,4 @@
-# struts2
+# Struts2
 
 
 A inline database table that allows admin to perform crud functions.
